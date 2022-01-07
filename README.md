@@ -17,6 +17,7 @@ I run the program, and select the folder ``pictures`` with the following file: `
 ```
 python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
+pip install easygui
 ```
 (Adapted from https://pillow.readthedocs.io/en/stable/installation.html)
 4. Run the ``.py`` by opening command prompt in the same directory as the ``.py`` file, then type ``python main.py``.
