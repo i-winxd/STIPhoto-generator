@@ -9,3 +9,14 @@ STI has around 130-135 images (I don't remember which one). Drag all the images 
 
 ## Example:
 I run the program, and select the folder ``pictures`` with the following file: ``image.png``. The program then creates a folder named ``export`` in the same file as the exe file you opened, and will shrink ``image.png`` down to ``425x320`` and name it ``Airplane.jpg``. The next image would be named ``ApplePicking.jpg``, and so on.
+
+## I don't like installing .exe files off the internet by random people. What should I do?
+1. Install python 3.9 or later on your computer. Best to install the one by the windows store.
+2. Make sure ``pip`` is installed on your computer. If not, search it up.
+3. Install pillow using the following commands:
+```
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
+```
+
+(Adapted from https://pillow.readthedocs.io/en/stable/installation.html)
