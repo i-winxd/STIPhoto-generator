@@ -13,7 +13,7 @@ I run the program, and select the folder ``pictures`` with the following file: `
 ## How to install (for first time use)
 No instructions needed for the .exe file but your antivirus will likely overreact so I would rather use the .py file instead
 
-1. Install python 3.9 or later on your computer **THROUGH THE WINDOWS 10 STORE** (don't install it on the website unless you know what you're doing)
+1. Install python 3.9 or later on your computer
 2. After installing python, run these 3 lines in your command prompt seperately
 ```
 python3 -m pip install --upgrade pip
